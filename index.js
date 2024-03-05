@@ -1,4 +1,4 @@
-//array de cadenas//
-const texto = "alan,sarah,camilo,esteban"
-const nombre = texto.split(",")
-console.log(nombre)
+//array de combinacion//
+const hombre=[david,camilo,alex]
+const mujer=[maria,daniela,diana]
+console.log(...hombre,...mujer)
