@@ -1,1 +1,3 @@
-let array=[1,2,3,45,6,7,8,9]
+let universidad=[edad,sexo,altura]
+
+
