@@ -1,3 +1,2 @@
-//array de constructor//
-let nombre=[alex,leo,paola,boby]
-console.log(nombre.length)
+//array de secuencia numerica//
+numero.from([1,2,3,4,5,6,7,8,9,0])
