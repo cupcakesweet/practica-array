@@ -1,4 +1,5 @@
-//array de combinacion//
-const hombre=[david,camilo,alex]
-const mujer=[maria,daniela,diana]
-console.log(...hombre,...mujer)
+//array de valores unicos//
+const fruta = ["mango", "papaya", "melon"]
+const frutas= new Set(fruta)
+console.log(frutas.has("mango"))
+console.log([...frutas])
