@@ -1,6 +1,3 @@
-//eliminar primer elemento de un array//
-const numero = [1, 2, 3, 4, 5]
-console.log("eliminar:", numero)
-const primerElementoEliminado = numero.shift()
-console.log("Primer elemento eliminado:", primerElementoEliminado)
-console.log("eliminacion:", numero)
+//Obtener una porción del array usando slice() //
+const fruta = ["manzana", "melon", "uva", "banano", "Mango"]
+const citrus = fruta.slice(1, 3)
