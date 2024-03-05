@@ -1,2 +1,4 @@
-//array de repeticion numerica//
-console.log([1,2,3,4,5,6,].fill(4))
+//array de cadenas//
+const texto = "alan,sarah,camilo,esteban"
+const nombre = texto.split(",")
+console.log(nombre)
