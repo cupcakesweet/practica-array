@@ -1,4 +1,5 @@
-//array de longitud del array//
-const numero = [1, 2, 3, 4, 5]
-const longitud = numero.length
-console.log(`La longitud del array es: ${longitud}`)
+//elemento final array//
+const sports = ["soccer", "baseball"];
+const total = sports.push("football", "swimming");
+console.log(sports)
+console.log(total)
