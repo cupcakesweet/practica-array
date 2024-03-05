@@ -1,2 +1,2 @@
-//array de secuencia numerica//
-numero.from([1,2,3,4,5,6,7,8,9,0])
+//array de repeticion numerica//
+console.log([1,2,3,4,5,6,].fill(4))
